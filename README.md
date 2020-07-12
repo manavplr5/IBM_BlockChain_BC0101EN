@@ -6,7 +6,7 @@
 - - Thanks @cognitive-class and @ibmtraining 
 	- My Badget: https://www.youracclaim.com/badges/68e30501-b573-4272-8116-f73b23a4ecda/linked_in
 
-	![My Badget](images/blockchainessentials2.png)
+	
 
 	![My Certificate](images/blockchainessentials.png)
 
