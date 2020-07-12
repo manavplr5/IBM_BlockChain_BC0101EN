@@ -4,7 +4,7 @@
 - I have made the repo to summerize the skills I have learned in the course.
 - I have not shared any quiz/exam answers. 
 - - Thanks @cognitive-class and @ibmtraining 
-	- My Badget: https://www.youracclaim.com/badges/68e30501-b573-4272-8116-f73b23a4ecda/linked_in
+	- My Badget: https://www.youracclaim.com/badges/64e0b15c-d882-4724-a1e5-be73612cebb3  
 
 	
 
